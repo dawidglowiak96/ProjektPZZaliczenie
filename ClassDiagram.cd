@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjektPZ.Program" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Startup" Collapsed="true">
+    <Position X="22.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.WebConstants" Collapsed="true">
+    <Position X="20.5" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ProjektPZ.WebConstants.Cache" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WebConstants.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Areas.Admin.Controllers.AdminController">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\Admin\Controllers\AdminController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Areas.Admin.Controllers.CarsController">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Areas\Admin\Controllers\CarsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Areas.Admin.AdminConstants" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\Admin\AdminConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Areas.Identity.Pages.Account.LoginModel" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ProjektPZ.Areas.Identity.Pages.Account.LoginModel.InputModel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Areas\Identity\Pages\Account\Login.cshtml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAgAAAAAAAAMAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Login.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Areas.Identity.Pages.Account.RegisterModel" Collapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ProjektPZ.Areas.Identity.Pages.Account.RegisterModel.InputModel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Areas\Identity\Pages\Account\Register.cshtml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAYEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Register.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Controllers.Api.CarsApiController" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Api\CarsApiController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Controllers.Api.StatisticsApiController" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Api\StatisticsApiController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Controllers.CarsController" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAJAgAAAACAAAAAAAEAAAACAIAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CarsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Controllers.DealersController" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAA=</HashCode>
+      <FileName>Controllers\DealersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Controllers.HomeController" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Migrations.ApplicationDbContextModelSnapshot" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Data\Migrations\ApplicationDbContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Migrations.CarsTableIsPublicColumn" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Data\Migrations\CarsTableIsPublicColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Migrations.CategoryAndCarTables" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Data\Migrations\CategoryAndCarTables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Migrations.CreateIdentitySchema" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Data\Migrations\CreateIdentitySchema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Migrations.DealersTable" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Data\Migrations\DealersTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Migrations.UserFullNameColumn" Collapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Data\Migrations\UserFullNameColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Models.Car" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAABAAgAgAAAAAAAEAAACAAAIAAAAgAAAABCAA=</HashCode>
+      <FileName>Data\Models\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Models.Category" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Models.Dealer" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAQAwAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.Models.User" Collapsed="true">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.DataConstants" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ProjektPZ.Data.DataConstants.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataConstants.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ProjektPZ.Data.DataConstants.Car" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataConstants.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ProjektPZ.Data.DataConstants.Category" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataConstants.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ProjektPZ.Data.DataConstants.Dealer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\DataConstants.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Data.ProjektPZDbContext" Collapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAkAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ProjektPZDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Infrastructure.Extensions.ApplicationBuilderExtensions" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAACAIAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Extensions\ApplicationBuilderExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Infrastructure.Extensions.ClaimsPrincipalExtensions" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Extensions\ClaimsPrincipalExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Infrastructure.Extensions.ControllerExtensions" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Infrastructure\Extensions\ControllerExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Infrastructure.Extensions.EndpointRouteBuilderExtensions" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Extensions\EndpointRouteBuilderExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Infrastructure.Extensions.ModelExtensions" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Extensions\ModelExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Infrastructure.MappingProfile" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\MappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Models.Api.Cars.AllCarsApiRequestModel" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAQAAAAAAAIAAAAAAABAAI=</HashCode>
+      <FileName>Models\Api\Cars\AllCarsApiRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Models.Cars.AllCarsQueryModel" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACIAAAAAAAAAAAACAQAAAAAAAIAAAAAAABAAI=</HashCode>
+      <FileName>Models\Cars\AllCarsQueryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Models.Cars.CarFormModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABAAgAgAAAAAAAAAAAAAAEAAAAAgAAAABAAA=</HashCode>
+      <FileName>Models\Cars\CarFormModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjektPZ.Models.Dealers.BecomeDealerFormModel" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Dealers\BecomeDealerFormModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Models.ErrorViewModel" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Services.Cars.Models.CarCategoryServiceModel" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Cars\Models\CarCategoryServiceModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Services.Cars.Models.CarDetailsServiceModel">
+    <Position X="6.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAgAAAAAAAAgAAAAAAIAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Services\Cars\Models\CarDetailsServiceModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Services.Cars.Models.CarQueryServiceModel" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACIAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Services\Cars\Models\CarQueryServiceModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPZ.Services.Cars.Models.CarServiceModel">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAABAAAAAAAAAAAAAAAACAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Services\Cars\Models\CarServiceModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjektPZ.Services.Cars.Models.LatestCarServiceModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Services\Cars\Models\LatestCarServiceModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjektPZ.Services.Cars.CarService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAJAAAAAAAAAAACAAEAAEACAIAQEAoAAAA=</HashCode>
+      <FileName>Services\Cars\CarService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjektPZ.Services.Dealers.DealerService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Services\Dealers\DealerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjektPZ.Services.Statistics.StatisticsService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Services\Statistics\StatisticsService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjektPZ.Services.Statistics.StatisticsServiceModel" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Statistics\StatisticsServiceModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjektPZ.Services.Cars.Models.ICarModel" Collapsed="true">
+    <Position X="11.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Services\Cars\Models\ICarModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjektPZ.Services.Cars.ICarService" Collapsed="true">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAJAAAAAAAAAAAAAAEAAEACAIAAEAoAAAA=</HashCode>
+      <FileName>Services\Cars\ICarService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjektPZ.Services.Dealers.IDealerService" Collapsed="true">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Dealers\IDealerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjektPZ.Services.Statistics.IStatisticsService" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Statistics\IStatisticsService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ProjektPZ.Models.CarSorting" Collapsed="true">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAA=</HashCode>
+      <FileName>Models\CarSorting.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
